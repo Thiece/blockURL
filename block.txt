@@ -1,7 +1,7 @@
 [blockURL]
-! Version: 202012220304
+! Version: 202012280304
 ! Title: blockURL List
-! Last modified: 2020/12/22 03:04 +0800
+! Last modified: 2020/12/28 03:04 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/Thiece/blockURL
 !
@@ -68968,11 +68968,4 @@
 
 
 
-!-------------------------------正则----------------------------------!
-/(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
-/(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
-/(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
-/.*\/.*\?(?:s|so)=.*/
-/.*\/so\.php/
-/.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
-/m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+
